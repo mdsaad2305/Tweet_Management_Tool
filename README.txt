@@ -1,4 +1,3 @@
-Name: Mohammed Saad Vuppukar
 Project: Tweet Management Tool
 
 
